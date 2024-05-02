@@ -1,0 +1,1304 @@
+{
+    "5A:5A:5A:A6:01:9F": {
+        "bt_name": "CushNC KICKER",
+        "rssi": -1,
+        "enabled": false,
+        "highlight": true
+    },
+    "54:B7:E5:4C:BB:E8": {
+        "bt_name": "Tabor KICKER",
+        "rssi": -1,
+        "enabled": false,
+        "highlight": true
+    },
+    "00:07:80:40:13:C4": {
+        "bt_name": "Tabor ",
+        "rssi": -1,
+        "enabled": false,
+        "highlight": true
+    },
+    "54:B7:E5:60:FD:23": {
+        "bt_name": "NISSAN TG AUDIO",
+        "rssi": -1,
+        "enabled": true,
+        "highlight": false
+    },
+    "00:17:53:53:6D:AE": {
+        "bt_name": "iK5BTL Amphitheater",
+        "rssi": -1,
+        "enabled": true,
+        "highlight": false
+    },
+    "94:E6:F7:70:F6:56": {
+        "bt_name": "JOJAME",
+        "rssi": -1,
+        "enabled": true,
+        "highlight": false
+    },
+    "00:02:10:1A:33:FF": {
+        "bt_name": "Media Center",
+        "rssi": -1,
+        "enabled": true,
+        "highlight": false
+    },
+    "50:2F:9B:79:1E:85": {
+        "bt_name": "SAMOOR-LAPTOP",
+        "rssi": -1,
+        "enabled": true,
+        "highlight": false
+    },
+    "50:2F:9B:7A:C2:08": {
+        "bt_name": "GLCOOPE-LAPTOP",
+        "rssi": -1,
+        "enabled": true,
+        "highlight": false
+    },
+    "50:2F:9B:C9:93:97": {
+        "bt_name": "KICKER-1VJ9Z93",
+        "rssi": -1,
+        "enabled": true,
+        "highlight": false
+    },
+    "4F:4C:0E:55:36:10": {
+        "bt_name": "Unknown",
+        "rssi": -77,
+        "enabled": true,
+        "highlight": false
+    },
+    "22:FB:53:16:BF:67": {
+        "bt_name": "Unknown",
+        "rssi": -90,
+        "enabled": true,
+        "highlight": false
+    },
+    "1F:83:74:04:C4:D5": {
+        "bt_name": "Unknown",
+        "rssi": -66,
+        "enabled": true,
+        "highlight": false
+    },
+    "34:0F:0C:57:F3:0E": {
+        "bt_name": "Unknown",
+        "rssi": -80,
+        "enabled": true,
+        "highlight": false
+    },
+    "5A:44:54:9D:F8:84": {
+        "bt_name": "Unknown",
+        "rssi": -76,
+        "enabled": true,
+        "highlight": false
+    },
+    "15:63:4A:03:0B:3F": {
+        "bt_name": "Unknown",
+        "rssi": -71,
+        "enabled": true,
+        "highlight": false
+    },
+    "68:95:88:67:24:26": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "2D:56:92:04:5C:FE": {
+        "bt_name": "Unknown",
+        "rssi": -57,
+        "enabled": true,
+        "highlight": false
+    },
+    "21:14:58:67:76:4C": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "3D:C8:DD:F3:64:37": {
+        "bt_name": "Unknown",
+        "rssi": -75,
+        "enabled": true,
+        "highlight": false
+    },
+    "7D:C6:BD:42:FF:6E": {
+        "bt_name": "Unknown",
+        "rssi": -94,
+        "enabled": true,
+        "highlight": false
+    },
+    "53:DF:A5:98:51:86": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "E2:F4:DE:77:B8:DF": {
+        "bt_name": "Unknown",
+        "rssi": -72,
+        "enabled": true,
+        "highlight": false
+    },
+    "6D:C5:C0:C5:8F:78": {
+        "bt_name": "Unknown",
+        "rssi": -65,
+        "enabled": true,
+        "highlight": false
+    },
+    "28:12:35:43:C4:51": {
+        "bt_name": "Unknown",
+        "rssi": -79,
+        "enabled": true,
+        "highlight": false
+    },
+    "33:04:65:77:93:08": {
+        "bt_name": "Unknown",
+        "rssi": -81,
+        "enabled": true,
+        "highlight": false
+    },
+    "38:CE:59:E9:50:56": {
+        "bt_name": "Unknown",
+        "rssi": -82,
+        "enabled": true,
+        "highlight": false
+    },
+    "46:65:1B:CC:2C:2D": {
+        "bt_name": "Unknown",
+        "rssi": -96,
+        "enabled": true,
+        "highlight": false
+    },
+    "21:F6:EE:B1:9A:A9": {
+        "bt_name": "Unknown",
+        "rssi": -82,
+        "enabled": true,
+        "highlight": false
+    },
+    "48:00:BF:C3:BA:81": {
+        "bt_name": "Unknown",
+        "rssi": -80,
+        "enabled": true,
+        "highlight": false
+    },
+    "0D:5B:56:DE:2B:A2": {
+        "bt_name": "Unknown",
+        "rssi": -89,
+        "enabled": true,
+        "highlight": false
+    },
+    "66:2A:6B:4F:CD:53": {
+        "bt_name": "Unknown",
+        "rssi": -97,
+        "enabled": true,
+        "highlight": false
+    },
+    "12:8F:ED:57:6A:9F": {
+        "bt_name": "Unknown",
+        "rssi": -91,
+        "enabled": true,
+        "highlight": false
+    },
+    "37:E5:F8:D4:19:6D": {
+        "bt_name": "Unknown",
+        "rssi": -85,
+        "enabled": true,
+        "highlight": false
+    },
+    "03:6B:A3:18:DB:57": {
+        "bt_name": "Unknown",
+        "rssi": -76,
+        "enabled": true,
+        "highlight": false
+    },
+    "0C:A1:BF:D3:EF:4A": {
+        "bt_name": "Unknown",
+        "rssi": -92,
+        "enabled": true,
+        "highlight": false
+    },
+    "4F:F9:E9:10:C5:8E": {
+        "bt_name": "Unknown",
+        "rssi": -85,
+        "enabled": true,
+        "highlight": false
+    },
+    "02:DB:C5:F7:3F:54": {
+        "bt_name": "Unknown",
+        "rssi": -87,
+        "enabled": true,
+        "highlight": false
+    },
+    "47:A8:F5:F3:A0:C5": {
+        "bt_name": "Unknown",
+        "rssi": -73,
+        "enabled": true,
+        "highlight": false
+    },
+    "0E:E6:70:E6:62:78": {
+        "bt_name": "Unknown",
+        "rssi": -97,
+        "enabled": true,
+        "highlight": false
+    },
+    "2F:A4:00:EC:94:AE": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "73:01:1A:4E:97:2E": {
+        "bt_name": "Unknown",
+        "rssi": -81,
+        "enabled": true,
+        "highlight": false
+    },
+    "36:4F:21:00:D0:F2": {
+        "bt_name": "Unknown",
+        "rssi": -75,
+        "enabled": true,
+        "highlight": false
+    },
+    "00:EB:EB:11:9F:84": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "BE:16:CA:00:41:DD": {
+        "bt_name": "MELK-OA21   DD",
+        "rssi": -84,
+        "enabled": true,
+        "highlight": false
+    },
+    "5A:56:DB:00:59:49": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "1C:5E:A7:55:F8:40": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "11:C3:9A:BB:A2:B1": {
+        "bt_name": "Unknown",
+        "rssi": -94,
+        "enabled": true,
+        "highlight": false
+    },
+    "0B:CC:17:A7:B7:F7": {
+        "bt_name": "Unknown",
+        "rssi": -91,
+        "enabled": true,
+        "highlight": false
+    },
+    "12:F1:E0:5E:CA:67": {
+        "bt_name": "Unknown",
+        "rssi": -67,
+        "enabled": true,
+        "highlight": false
+    },
+    "4F:7B:B1:F4:4B:2F": {
+        "bt_name": "Unknown",
+        "rssi": -73,
+        "enabled": true,
+        "highlight": false
+    },
+    "43:EF:40:BD:7E:74": {
+        "bt_name": "Unknown",
+        "rssi": -78,
+        "enabled": true,
+        "highlight": false
+    },
+    "21:98:22:6A:30:B8": {
+        "bt_name": "Unknown",
+        "rssi": -77,
+        "enabled": true,
+        "highlight": false
+    },
+    "75:C7:4A:1B:7B:5E": {
+        "bt_name": "Unknown",
+        "rssi": -91,
+        "enabled": true,
+        "highlight": false
+    },
+    "49:59:74:12:92:8F": {
+        "bt_name": "Unknown",
+        "rssi": -63,
+        "enabled": true,
+        "highlight": false
+    },
+    "D9:14:EA:EB:5F:7F": {
+        "bt_name": "Unknown",
+        "rssi": -77,
+        "enabled": true,
+        "highlight": false
+    },
+    "46:C3:D8:DE:26:B8": {
+        "bt_name": "Unknown",
+        "rssi": -87,
+        "enabled": true,
+        "highlight": false
+    },
+    "28:39:5E:57:AE:05": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "F3:3E:91:7E:03:26": {
+        "bt_name": "Unknown",
+        "rssi": -85,
+        "enabled": true,
+        "highlight": false
+    },
+    "D8:5E:C4:8B:47:6D": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "5E:85:1D:92:97:4E": {
+        "bt_name": "Unknown",
+        "rssi": -95,
+        "enabled": true,
+        "highlight": false
+    },
+    "0F:FE:7D:F1:2A:E3": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "47:97:DB:88:FE:AB": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "DC:B5:83:D9:2A:1F": {
+        "bt_name": "Unknown",
+        "rssi": -73,
+        "enabled": true,
+        "highlight": false
+    },
+    "00:1C:97:16:99:2E": {
+        "bt_name": "FELLOW992E",
+        "rssi": -72,
+        "enabled": true,
+        "highlight": false
+    },
+    "08:1E:D7:2F:75:BC": {
+        "bt_name": "Unknown",
+        "rssi": -92,
+        "enabled": true,
+        "highlight": false
+    },
+    "66:5D:95:5F:F3:C7": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "5D:0B:30:DE:D6:7C": {
+        "bt_name": "Unknown",
+        "rssi": -90,
+        "enabled": true,
+        "highlight": false
+    },
+    "66:13:38:D0:D6:93": {
+        "bt_name": "Unknown",
+        "rssi": -84,
+        "enabled": true,
+        "highlight": false
+    },
+    "01:E4:63:A0:F6:D5": {
+        "bt_name": "Unknown",
+        "rssi": -87,
+        "enabled": true,
+        "highlight": false
+    },
+    "2B:D3:C5:71:3F:DE": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "47:C9:B8:FC:B8:87": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "59:05:75:2E:B8:02": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "10:F9:E9:20:2A:3A": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "32:1D:A3:3B:6D:E3": {
+        "bt_name": "Unknown",
+        "rssi": -85,
+        "enabled": true,
+        "highlight": false
+    },
+    "46:F6:57:BB:5B:5F": {
+        "bt_name": "Unknown",
+        "rssi": -90,
+        "enabled": true,
+        "highlight": false
+    },
+    "0C:14:77:C4:10:DE": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "55:AB:60:24:67:0C": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "E1:FF:FD:81:A8:84": {
+        "bt_name": "Unknown",
+        "rssi": -87,
+        "enabled": true,
+        "highlight": false
+    },
+    "21:6E:F4:A4:71:22": {
+        "bt_name": "Unknown",
+        "rssi": -98,
+        "enabled": true,
+        "highlight": false
+    },
+    "5E:F5:E0:DE:86:B7": {
+        "bt_name": "Unknown",
+        "rssi": -90,
+        "enabled": true,
+        "highlight": false
+    },
+    "CC:F1:4F:2B:2F:36": {
+        "bt_name": "Unknown",
+        "rssi": -66,
+        "enabled": true,
+        "highlight": false
+    },
+    "24:F3:DC:D5:31:E0": {
+        "bt_name": "Unknown",
+        "rssi": -96,
+        "enabled": true,
+        "highlight": false
+    },
+    "6E:91:BC:B4:85:91": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "4F:93:C0:D7:A0:AB": {
+        "bt_name": "Unknown",
+        "rssi": -74,
+        "enabled": true,
+        "highlight": false
+    },
+    "4E:70:EC:B4:F4:D7": {
+        "bt_name": "Unknown",
+        "rssi": -73,
+        "enabled": true,
+        "highlight": false
+    },
+    "73:8E:F1:47:1A:88": {
+        "bt_name": "Unknown",
+        "rssi": -62,
+        "enabled": true,
+        "highlight": false
+    },
+    "4D:C9:54:7F:29:A6": {
+        "bt_name": "Unknown",
+        "rssi": -94,
+        "enabled": true,
+        "highlight": false
+    },
+    "7F:B7:A8:2A:FD:FB": {
+        "bt_name": "Unknown",
+        "rssi": -84,
+        "enabled": true,
+        "highlight": false
+    },
+    "43:70:65:CC:67:CE": {
+        "bt_name": "Unknown",
+        "rssi": -95,
+        "enabled": true,
+        "highlight": false
+    },
+    "6C:02:1D:88:2F:5E": {
+        "bt_name": "Unknown",
+        "rssi": -96,
+        "enabled": true,
+        "highlight": false
+    },
+    "75:51:26:06:33:21": {
+        "bt_name": "Unknown",
+        "rssi": -90,
+        "enabled": true,
+        "highlight": false
+    },
+    "CA:EC:26:3E:48:3B": {
+        "bt_name": "Unknown",
+        "rssi": -89,
+        "enabled": true,
+        "highlight": false
+    },
+    "59:A7:32:65:EA:C4": {
+        "bt_name": "Unknown",
+        "rssi": -82,
+        "enabled": true,
+        "highlight": false
+    },
+    "0F:F8:75:82:50:63": {
+        "bt_name": "Unknown",
+        "rssi": -90,
+        "enabled": true,
+        "highlight": false
+    },
+    "05:E6:3F:45:A4:E5": {
+        "bt_name": "Unknown",
+        "rssi": -70,
+        "enabled": true,
+        "highlight": false
+    },
+    "41:F4:11:23:A3:88": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "66:7B:0F:DB:F3:57": {
+        "bt_name": "Unknown",
+        "rssi": -79,
+        "enabled": true,
+        "highlight": false
+    },
+    "32:E6:DB:0C:C5:51": {
+        "bt_name": "Unknown",
+        "rssi": -87,
+        "enabled": true,
+        "highlight": false
+    },
+    "CC:6E:A4:E6:FE:39": {
+        "bt_name": "Unknown",
+        "rssi": -96,
+        "enabled": true,
+        "highlight": false
+    },
+    "43:5E:A5:BE:F5:AD": {
+        "bt_name": "Unknown",
+        "rssi": -91,
+        "enabled": true,
+        "highlight": false
+    },
+    "F9:18:7F:70:E8:FB": {
+        "bt_name": "Unknown",
+        "rssi": -94,
+        "enabled": true,
+        "highlight": false
+    },
+    "2F:95:C0:D2:C4:3C": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "43:30:D4:2F:69:66": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "10:AA:0A:05:D3:8C": {
+        "bt_name": "Unknown",
+        "rssi": -92,
+        "enabled": true,
+        "highlight": false
+    },
+    "0C:9F:B2:F6:35:05": {
+        "bt_name": "Unknown",
+        "rssi": -65,
+        "enabled": true,
+        "highlight": false
+    },
+    "0E:4F:59:7B:5B:36": {
+        "bt_name": "Unknown",
+        "rssi": -73,
+        "enabled": true,
+        "highlight": false
+    },
+    "0F:B2:CC:6F:2C:DF": {
+        "bt_name": "Unknown",
+        "rssi": -91,
+        "enabled": true,
+        "highlight": false
+    },
+    "1E:09:85:EE:37:70": {
+        "bt_name": "Unknown",
+        "rssi": -90,
+        "enabled": true,
+        "highlight": false
+    },
+    "2F:B5:CB:0E:43:D4": {
+        "bt_name": "Unknown",
+        "rssi": -81,
+        "enabled": true,
+        "highlight": false
+    },
+    "31:18:EE:C1:37:F0": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "04:31:B1:81:61:F6": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "39:00:28:72:64:A2": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "73:4E:4E:95:83:2A": {
+        "bt_name": "Unknown",
+        "rssi": -80,
+        "enabled": true,
+        "highlight": false
+    },
+    "54:D6:C9:1C:06:39": {
+        "bt_name": "Unknown",
+        "rssi": -92,
+        "enabled": true,
+        "highlight": false
+    },
+    "54:A5:F5:4D:2C:9A": {
+        "bt_name": "Unknown",
+        "rssi": -91,
+        "enabled": true,
+        "highlight": false
+    },
+    "5D:05:4B:37:EA:67": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "3E:85:3C:19:60:49": {
+        "bt_name": "Unknown",
+        "rssi": -94,
+        "enabled": true,
+        "highlight": false
+    },
+    "2E:72:4B:AB:D9:37": {
+        "bt_name": "Unknown",
+        "rssi": -94,
+        "enabled": true,
+        "highlight": false
+    },
+    "5B:51:CB:B0:D8:41": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "6A:23:49:51:6E:8A": {
+        "bt_name": "Unknown",
+        "rssi": -97,
+        "enabled": true,
+        "highlight": false
+    },
+    "7B:75:D5:6F:0C:C2": {
+        "bt_name": "LE-Bose NC 700 HP",
+        "rssi": -87,
+        "enabled": true,
+        "highlight": false
+    },
+    "48:E3:07:88:B9:7C": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "E3:59:43:28:75:C2": {
+        "bt_name": "Ember Ceramic Mug",
+        "rssi": -90,
+        "enabled": true,
+        "highlight": false
+    },
+    "C2:68:6B:46:5A:02": {
+        "bt_name": "Unknown",
+        "rssi": -95,
+        "enabled": true,
+        "highlight": false
+    },
+    "C8:28:43:43:72:DB": {
+        "bt_name": "Tile",
+        "rssi": -94,
+        "enabled": true,
+        "highlight": false
+    },
+    "45:B4:55:2E:C2:F5": {
+        "bt_name": "Unknown",
+        "rssi": -84,
+        "enabled": true,
+        "highlight": false
+    },
+    "E2:0A:94:55:B6:1E": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "D4:D9:97:D1:3C:F4": {
+        "bt_name": "Unknown",
+        "rssi": -63,
+        "enabled": true,
+        "highlight": false
+    },
+    "53:95:8B:F4:19:3F": {
+        "bt_name": "Unknown",
+        "rssi": -98,
+        "enabled": true,
+        "highlight": false
+    },
+    "E5:B7:7A:E6:B9:E5": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "1C:3E:17:7D:4C:D6": {
+        "bt_name": "Unknown",
+        "rssi": -95,
+        "enabled": true,
+        "highlight": false
+    },
+    "74:E8:19:63:09:5E": {
+        "bt_name": "Unknown",
+        "rssi": -76,
+        "enabled": true,
+        "highlight": false
+    },
+    "1E:27:D7:91:87:F5": {
+        "bt_name": "Unknown",
+        "rssi": -96,
+        "enabled": true,
+        "highlight": false
+    },
+    "08:92:C9:35:77:69": {
+        "bt_name": "Unknown",
+        "rssi": -94,
+        "enabled": true,
+        "highlight": false
+    },
+    "65:64:CB:E8:B2:58": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "36:F7:6A:7F:61:B6": {
+        "bt_name": "Unknown",
+        "rssi": -69,
+        "enabled": true,
+        "highlight": false
+    },
+    "61:B1:9C:3D:FC:AD": {
+        "bt_name": "Unknown",
+        "rssi": -92,
+        "enabled": true,
+        "highlight": false
+    },
+    "70:47:C6:1F:C2:58": {
+        "bt_name": "Unknown",
+        "rssi": -91,
+        "enabled": true,
+        "highlight": false
+    },
+    "46:E7:F6:B0:4B:45": {
+        "bt_name": "Unknown",
+        "rssi": -82,
+        "enabled": true,
+        "highlight": false
+    },
+    "59:9F:D8:D4:B4:A0": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "76:54:AB:90:D9:54": {
+        "bt_name": "Unknown",
+        "rssi": -97,
+        "enabled": true,
+        "highlight": false
+    },
+    "E3:FA:B0:22:E5:9A": {
+        "bt_name": "Unknown",
+        "rssi": -94,
+        "enabled": true,
+        "highlight": false
+    },
+    "62:93:A4:0C:0E:0D": {
+        "bt_name": "Unknown",
+        "rssi": -66,
+        "enabled": true,
+        "highlight": false
+    },
+    "48:77:63:6B:FA:E8": {
+        "bt_name": "LE-Bose NC 700 HP",
+        "rssi": -75,
+        "enabled": true,
+        "highlight": false
+    },
+    "3A:53:D2:94:F9:D2": {
+        "bt_name": "Unknown",
+        "rssi": -75,
+        "enabled": true,
+        "highlight": false
+    },
+    "C0:E3:76:63:7F:4C": {
+        "bt_name": "Unknown",
+        "rssi": -77,
+        "enabled": true,
+        "highlight": false
+    },
+    "63:0B:6C:6A:94:0D": {
+        "bt_name": "Unknown",
+        "rssi": -85,
+        "enabled": true,
+        "highlight": false
+    },
+    "56:51:F5:24:14:EF": {
+        "bt_name": "LE-Bose NC 700 HP",
+        "rssi": -74,
+        "enabled": true,
+        "highlight": false
+    },
+    "ED:1F:A7:DD:F3:92": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "18:4D:A3:55:60:20": {
+        "bt_name": "Unknown",
+        "rssi": -78,
+        "enabled": true,
+        "highlight": false
+    },
+    "2B:64:DC:E2:63:AE": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "2A:EC:6D:BF:B6:10": {
+        "bt_name": "Unknown",
+        "rssi": -92,
+        "enabled": true,
+        "highlight": false
+    },
+    "37:50:E0:DE:AB:70": {
+        "bt_name": "Unknown",
+        "rssi": -87,
+        "enabled": true,
+        "highlight": false
+    },
+    "5E:F5:2A:B7:65:06": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "2E:7C:E1:E5:77:D0": {
+        "bt_name": "Unknown",
+        "rssi": -73,
+        "enabled": true,
+        "highlight": false
+    },
+    "12:92:2A:5F:EE:09": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "1F:B7:36:FC:1E:B3": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "3F:81:E5:15:F6:B9": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "30:4E:B2:48:0F:B0": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "0B:4D:EB:3E:A3:00": {
+        "bt_name": "Unknown",
+        "rssi": -70,
+        "enabled": true,
+        "highlight": false
+    },
+    "5E:69:06:7B:D7:28": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "7D:02:68:29:0E:58": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "32:B8:79:9E:09:10": {
+        "bt_name": "Unknown",
+        "rssi": -75,
+        "enabled": true,
+        "highlight": false
+    },
+    "10:09:7F:DF:59:A2": {
+        "bt_name": "Unknown",
+        "rssi": -94,
+        "enabled": true,
+        "highlight": false
+    },
+    "50:C6:C1:AE:FE:79": {
+        "bt_name": "LE-Bose NC 700 HP",
+        "rssi": -84,
+        "enabled": true,
+        "highlight": false
+    },
+    "2D:3C:9A:5D:FE:5C": {
+        "bt_name": "Unknown",
+        "rssi": -83,
+        "enabled": true,
+        "highlight": false
+    },
+    "20:A1:EB:47:3B:31": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "1A:09:E7:10:4F:9A": {
+        "bt_name": "Unknown",
+        "rssi": -74,
+        "enabled": true,
+        "highlight": false
+    },
+    "27:18:04:41:FF:D6": {
+        "bt_name": "Unknown",
+        "rssi": -66,
+        "enabled": true,
+        "highlight": false
+    },
+    "22:4C:9F:4B:E9:0B": {
+        "bt_name": "Unknown",
+        "rssi": -89,
+        "enabled": true,
+        "highlight": false
+    },
+    "5C:8D:09:49:09:FE": {
+        "bt_name": "Unknown",
+        "rssi": -78,
+        "enabled": true,
+        "highlight": false
+    },
+    "40:DB:B4:EE:FD:C0": {
+        "bt_name": "Unknown",
+        "rssi": -90,
+        "enabled": true,
+        "highlight": false
+    },
+    "34:1C:D8:5F:01:3E": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "36:CB:B5:44:DD:4D": {
+        "bt_name": "Unknown",
+        "rssi": -89,
+        "enabled": true,
+        "highlight": false
+    },
+    "E8:3B:CD:87:42:65": {
+        "bt_name": "Unknown",
+        "rssi": -87,
+        "enabled": true,
+        "highlight": false
+    },
+    "E7:C2:F0:F5:3F:86": {
+        "bt_name": "Unknown",
+        "rssi": -89,
+        "enabled": true,
+        "highlight": false
+    },
+    "09:80:88:FC:2A:1A": {
+        "bt_name": "Unknown",
+        "rssi": -97,
+        "enabled": true,
+        "highlight": false
+    },
+    "72:D2:80:F0:7A:BA": {
+        "bt_name": "Unknown",
+        "rssi": -67,
+        "enabled": true,
+        "highlight": false
+    },
+    "03:F9:68:D5:B3:54": {
+        "bt_name": "Unknown",
+        "rssi": -98,
+        "enabled": true,
+        "highlight": false
+    },
+    "48:1B:54:CE:9B:A7": {
+        "bt_name": "Unknown",
+        "rssi": -76,
+        "enabled": true,
+        "highlight": false
+    },
+    "7C:68:70:87:DA:25": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "46:C4:98:21:D9:CE": {
+        "bt_name": "Unknown",
+        "rssi": -70,
+        "enabled": true,
+        "highlight": false
+    },
+    "0E:7E:3C:FE:D7:EE": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "73:DC:FF:B8:B5:86": {
+        "bt_name": "Unknown",
+        "rssi": -68,
+        "enabled": true,
+        "highlight": false
+    },
+    "11:5E:0F:95:4B:98": {
+        "bt_name": "Unknown",
+        "rssi": -93,
+        "enabled": true,
+        "highlight": false
+    },
+    "4F:B8:40:6F:47:59": {
+        "bt_name": "Unknown",
+        "rssi": -77,
+        "enabled": true,
+        "highlight": false
+    },
+    "FC:DA:9F:7F:EB:ED": {
+        "bt_name": "Unknown",
+        "rssi": -78,
+        "enabled": true,
+        "highlight": false
+    },
+    "69:B2:48:97:CE:58": {
+        "bt_name": "Unknown",
+        "rssi": -84,
+        "enabled": true,
+        "highlight": false
+    },
+    "03:3B:56:EA:79:97": {
+        "bt_name": "Unknown",
+        "rssi": -85,
+        "enabled": true,
+        "highlight": false
+    },
+    "1E:25:C2:36:DE:3F": {
+        "bt_name": "Unknown",
+        "rssi": -98,
+        "enabled": true,
+        "highlight": false
+    },
+    "6A:52:F4:73:D2:84": {
+        "bt_name": "Unknown",
+        "rssi": -97,
+        "enabled": true,
+        "highlight": false
+    },
+    "6D:97:63:10:FA:E4": {
+        "bt_name": "Unknown",
+        "rssi": -81,
+        "enabled": true,
+        "highlight": false
+    },
+    "4A:5C:66:28:29:31": {
+        "bt_name": "Unknown",
+        "rssi": -80,
+        "enabled": true,
+        "highlight": false
+    },
+    "78:B4:5B:05:E7:AF": {
+        "bt_name": "Unknown",
+        "rssi": -95,
+        "enabled": true,
+        "highlight": false
+    },
+    "CE:C8:A9:89:48:75": {
+        "bt_name": "Ember Ceramic Mug",
+        "rssi": -87,
+        "enabled": true,
+        "highlight": false
+    },
+    "CE:A8:A8:BC:7A:43": {
+        "bt_name": "Unknown",
+        "rssi": -92,
+        "enabled": true,
+        "highlight": false
+    },
+    "5C:51:32:CD:29:93": {
+        "bt_name": "Unknown",
+        "rssi": -77,
+        "enabled": true,
+        "highlight": false
+    },
+    "0E:65:5D:2C:C4:B8": {
+        "bt_name": "Unknown",
+        "rssi": -89,
+        "enabled": true,
+        "highlight": false
+    },
+    "31:73:7E:55:B5:28": {
+        "bt_name": "Unknown",
+        "rssi": -89,
+        "enabled": true,
+        "highlight": false
+    },
+    "1D:CA:00:F0:5D:C1": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "30:DA:78:D6:C8:17": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "15:12:E1:1C:40:89": {
+        "bt_name": "Unknown",
+        "rssi": -74,
+        "enabled": true,
+        "highlight": false
+    },
+    "13:DA:6B:69:14:37": {
+        "bt_name": "Unknown",
+        "rssi": -86,
+        "enabled": true,
+        "highlight": false
+    },
+    "25:6F:7B:75:3C:8F": {
+        "bt_name": "Unknown",
+        "rssi": -92,
+        "enabled": true,
+        "highlight": false
+    },
+    "7E:C6:90:CC:D9:97": {
+        "bt_name": "Unknown",
+        "rssi": -92,
+        "enabled": true,
+        "highlight": false
+    },
+    "51:6C:CE:A3:CB:DB": {
+        "bt_name": "Unknown",
+        "rssi": -90,
+        "enabled": true,
+        "highlight": false
+    },
+    "0E:84:FF:6A:D7:89": {
+        "bt_name": "Unknown",
+        "rssi": -97,
+        "enabled": true,
+        "highlight": false
+    },
+    "19:02:CB:5B:0F:1A": {
+        "bt_name": "Unknown",
+        "rssi": -87,
+        "enabled": true,
+        "highlight": false
+    },
+    "2D:49:EF:3A:77:4D": {
+        "bt_name": "Unknown",
+        "rssi": -88,
+        "enabled": true,
+        "highlight": false
+    },
+    "5D:E1:06:FE:C7:E3": {
+        "bt_name": "Unknown",
+        "rssi": -84,
+        "enabled": true,
+        "highlight": false
+    },
+    "71:28:E7:DE:5C:05": {
+        "bt_name": "Unknown",
+        "rssi": -76,
+        "enabled": true,
+        "highlight": false
+    },
+    "09:77:E0:2D:18:E6": {
+        "bt_name": "Unknown",
+        "rssi": -89,
+        "enabled": true,
+        "highlight": false
+    },
+    "5B:57:5C:05:0F:11": {
+        "bt_name": "Unknown",
+        "rssi": -85,
+        "enabled": true,
+        "highlight": false
+    },
+    "1A:6E:33:CC:50:BA": {
+        "bt_name": "Unknown",
+        "rssi": -89,
+        "enabled": true,
+        "highlight": false
+    },
+    "5C:78:55:4F:03:1D": {
+        "bt_name": "Unknown",
+        "rssi": -82,
+        "enabled": true,
+        "highlight": false
+    },
+    "48:8B:BC:69:4E:27": {
+        "bt_name": "Unknown",
+        "rssi": -100,
+        "enabled": true,
+        "highlight": false
+    }
+}
